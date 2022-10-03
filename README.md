@@ -24,3 +24,11 @@ Run on http://localhost:3000/:
 # Running Tests
 
 From the `term-deposit-calculator` directory, run `yarn test`
+
+# File navigation
+
+Calculator functions:
+`src/utils`
+
+UI Components 
+`src/components`
